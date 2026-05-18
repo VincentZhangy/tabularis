@@ -31,3 +31,6 @@ devdiary
 coverage
 plugins/**/target
 .gitnexus
+
+.qoder
+.codex
